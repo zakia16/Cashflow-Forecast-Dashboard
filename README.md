@@ -40,7 +40,7 @@ The dataset includes:
 ## 🧩 Data Modeling
 Built a star-schema data model with role-playing date dimensions to support weekly cash flow forecasting and accuracy analysis.
 
-<img width="975" height="712" alt="image" src="https://github.com/user-attachments/assets/96f118c4-d945-4186-9553-3652a24b5019" />
+<img width="938" height="697" alt="image" src="https://github.com/user-attachments/assets/3d3e82ee-290c-4252-892a-0b97ca4ee589" />
 
 ---
 
